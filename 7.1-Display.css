@@ -1,0 +1,69 @@
+.box {
+    background: #ff1395;
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    /*display: inline;*/
+    display: inline-block;
+}
+ .box-2 {
+    background: blue;
+ }
+
+ .box-3 {
+    background: rgb(255,0,0);
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+Display
+
+- Block
+- Inline
+- Inline-Block
+
+- Grid
+- Flex
+
+
+
+- Block
+Vem como padrao: div,section,p,h1,h2,ul,li,article...
+
+- Ocupa 100% da largula do elemento pai
+- Sempre ocupa toda sua linha
+- Altura definida de acordo com o conteudo
+- Podemos definir height e widht
+- Podemos definir valores e margin 
+
+
+- Inline
+Vem como padrao a,spam,b,i...
+
+- Elemento de linha
+- Não permite alterar height e width
+- Não podemos definir valores de margin top e bottom
+- Ganha coportamento de uma palavra
+
+- Inline-Block
+
+- Elementos em linha,porem com caracteristica do disply Black
+- Altura e largula podem ser alteradas.
+
+*/
+
